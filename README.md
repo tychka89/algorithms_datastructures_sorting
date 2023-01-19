@@ -1,1 +1,1 @@
-# algorithms_datastructures_sorting
+# Алгоритмы, структуры данных и сортировка
